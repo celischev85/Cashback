@@ -1,4 +1,4 @@
-package ru.netology.netolog;
+package ru.netology;
 
 import org.junit.Assert;
 import org.junit.Test;
